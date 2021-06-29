@@ -5,8 +5,11 @@
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>YOUR NAME</editor>
-        <editor>YOUR NAME</editor>
+        <editor>Pankhuri Dayal</editor>
+        <editor>Meryl Janmaat</editor>
+        <editor>David J. Wright</editor>
+        <editor>Mackense Greico</editor>
+        <editor>Natalie DiMattia</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished edition of the Venetus B manuscript for the Homer Multitext project</p>
@@ -20,6 +23,8 @@
     <body>
       <div n="4">
         <l n="title">ἀρχὴ τῆς δέλτα ὁμήρου ἰλιάδος ⁑</l>
+        <l n="12">καὶ νῦν ἐξεσάωσεν ὀϊόμενον θανέεσθαι:</l>
+        <l n="13">ἀλλ᾽ ἤτοι νίκη μὲν ἀρηϊφίλου Μενελάου:</l>
       </div>
     </body>
   </text>
