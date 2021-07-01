@@ -20,6 +20,7 @@
     <group n="4">
       <text n="msB">
         <body>
+
           <div n="51r_5" type="scholion">
             <div n="lemma">
               <p>
@@ -37,6 +38,20 @@
                 ἁρπαγὴν ἀλεξάνδρου τοὺς λογους γεγενῆσθαι τοῖς θεοῖς:  ηὔξησε δὲ 
                 τὸ ἀγωνιστικὸν τῆς ὑποθέσεως τῇ τῶν θεῶν προνοίᾳ ⁑
               </p>
+            </div>
+          </div>
+
+          <div n="51v_1" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="1">α</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.13@νίκη</p>
+            </div>
+            <div n="comment">
+              <p>λείπει τὸ <rs n="waw">ἐστί</rs>: διέκρινε δὲ τὸ ἀμφίβολον ὁ τοῦ <persName n="urn:cite2:hmt:pers.v1:pers8">Διός</persName> λόγος: ὅπως μὴ δοκῆ ὁ ποιητής τοῖς <rs n="urn:cite2:hmt:place.v1:place96" type="ethnic">Ἀχαιοῖς</rs> χαρίζεσθαι⁑</p>
             </div>
           </div>
 
