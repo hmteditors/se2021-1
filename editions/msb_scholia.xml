@@ -55,7 +55,19 @@
             </div>
           </div>
 
-          
+          <div n="51v_2" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="2">β</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.14@ἔργα</p>
+            </div>
+            <div n="comment">
+              <p>βραχὺ διασταλτέον εἰς τὸ ἔργα (14). τὸ δὲ μετ' αὐτὰ ἦ ῥ', (15) δύο μέρη εἰσὶ λόγου: ἐλλείπει γὰρ τοῦ ῥ <rs type="waw">α</rs> συνδέσμου τὸ <rs type="waw">α</rs>: ἄρχεται δὲ τῶν κερτομιῶν ἤδη⁑</p>
+            </div>
+          </div>
         
         </body>
       </text>
